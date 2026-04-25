@@ -1,6 +1,6 @@
 
 <h1 align="center">Привет, я <strong>Алексей</strong> 👋</h1>
-<h3 align="center">Kotlin Developer • Android • Kotlin Multiplatform • Compose Multiplatform</h3>
+<h3 align="center">Kotlin Developer • Backend • Android • Kotlin Multiplatform</h3>
 
 ---
 
