@@ -13,13 +13,13 @@
 
 ---
 
+
 ### 🚀 Технологический стек & Инструменты
 
-* **Языки:** Kotlin, Java
-* **Backend:**
-  * *Frameworks & Core:* Spring Boot, Spring Security, Ktor
-  * *Databases & Migration:* PostgreSQL, Redis, Flyway
-  * *Messaging & Protocols:* Apache Kafka, REST API, gRPC, WebSockets
-  * *Architecture:* Clean Architecture, Event-Driven Architecture
-* **Android / KMP:** Jetpack Compose, Compose Multiplatform, Coroutines & Flow, Koin, Hilt, Room, Ktor Client
-* **DevOps & Tools:** Docker, Docker Compose, Git, Gradle, GitHub Actions, Linux, Nginx, Postman, Figma
+| Категория          | Технологии                                                                                                                                             |
+| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Языки**          | Kotlin, Java                                                                                                                                           |
+| **Backend**        | Spring Boot, Spring Security, Ktor, PostgreSQL, Redis, Flyway, Apache Kafka, REST API, gRPC, WebSockets, Clean Architecture, Event-Driven Architecture |
+| **Android / KMP**  | Jetpack Compose, Compose Multiplatform, Coroutines & Flow, Koin, Hilt, Room, Ktor Client                                                               |
+| **DevOps & Tools** | Docker, Docker Compose, Git, Gradle, GitHub Actions, Linux, Nginx, Postman, Figma                                                                      |
+|                    |                                                                                                                                                        |
